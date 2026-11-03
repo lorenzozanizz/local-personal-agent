@@ -1,0 +1,6 @@
+# Keep your existing CUDA-enabled PyTorch installation (PyTorch >= 2.6).
+# Install these into that same environment. Tkinter ships with standard Windows Python.
+transformers>=4.51.3,<5
+accelerate>=1.6,<2
+bitsandbytes>=0.48,<1
+safetensors>=0.5,<1
